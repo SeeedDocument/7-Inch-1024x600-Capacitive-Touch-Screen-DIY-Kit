@@ -1,0 +1,1 @@
+# 7-Inch-1024x600-Capacitive-Touch-Screen-DIY-Kit
