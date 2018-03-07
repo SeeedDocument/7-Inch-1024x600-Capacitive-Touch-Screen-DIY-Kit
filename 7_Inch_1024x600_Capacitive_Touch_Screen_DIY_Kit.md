@@ -5,7 +5,7 @@ bzurl: https://www.seeedstudio.com/7-Inch-1024x600-Capacitive-Touch-Screen-DIY-K
 oldwikiname:
 prodimagename:
 wikiurl: http://seeed.wiki/7_Inch_1024x600_Capacitive_Touch_Screen_DIY_Kit
-sku: 103030029
+sku: 104060007
 ---
 
 ![](https://github.com/SeeedDocument/7_Inch_1024x600_Capacitive_Touch_Screen_DIY_Kit/raw/master/img/1.jpg)
