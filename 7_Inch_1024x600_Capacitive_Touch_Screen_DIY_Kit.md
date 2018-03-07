@@ -8,7 +8,7 @@ wikiurl: http://seeed.wiki/7_Inch_1024x600_Capacitive_Touch_Screen_DIY_Kit
 sku: 103030029
 ---
 
-![](图1)
+![](https://github.com/SeeedDocument/7_Inch_1024x600_Capacitive_Touch_Screen_DIY_Kit/raw/master/img/1.jpg)
 
 这是一个全新的 DIY 工具包，它是一个奇妙的 HDMI 监视器，配有电容触摸屏和免驱动程序。我们增加了一个 CTP 驱动板，并提供了电容触摸屏，使它成为一个全新的套件。之后，您不需要校准您的触摸屏，并可触摸。它已经在树莓派、BB black,PC 还有 Mac 上测试过，并且表现优异，且即插即用。
 
@@ -56,15 +56,15 @@ sku: 103030029
 | 驱动板电源线                 | 1    |
 | USB 触摸屏线                 | 1    |
 
-![](图2)
+![](https://github.com/SeeedDocument/7_Inch_1024x600_Capacitive_Touch_Screen_DIY_Kit/raw/master/img/2.jpg)
 
 ##  硬件概述
 -----------------
 
 CTP 驱动板有两个 USB 端口，其中右侧是 USB 数据线。(两者都可用于您的触摸屏，其中一个应该连接到输出设备)
 
-![](图3)
-![](图4)
+![](https://github.com/SeeedDocument/7_Inch_1024x600_Capacitive_Touch_Screen_DIY_Kit/raw/master/img/3.jpg)
+![](https://github.com/SeeedDocument/7_Inch_1024x600_Capacitive_Touch_Screen_DIY_Kit/raw/master/img/4.jpg)
 
 ##  使用方法
 -----
@@ -93,11 +93,11 @@ hdmi_cvt 1024 600 60 3 0 0 0
 
 如果您发现屏幕在连接到设备时模糊不清，请检查驱动板背面的 FPC 电缆，在运送过程中它可能会松动。
 
-![](图5)
+![](https://github.com/SeeedDocument/7_Inch_1024x600_Capacitive_Touch_Screen_DIY_Kit/raw/master/img/5.jpg)
 
 您只需拔出 FPC 线缆模块，然后将 FPC 线缆插入其中，确保紧固并再次尝试。请小心对待这根 FPC 线缆，因为它连接到电路板并将触摸屏数据发送到电路板上的芯片。
 
-![](图6)
+![](https://github.com/SeeedDocument/7_Inch_1024x600_Capacitive_Touch_Screen_DIY_Kit/raw/master/img/6.jpg)
 
 ##  资源下载
 ---------
